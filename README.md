@@ -1,3 +1,3 @@
-### Experiment 1: Exploratory Data Analytics
+### Experiment 1: Exploratory Data Analysis
 
-### Experiment 2: Statistical Analytics
+### Experiment 2: Statistical Analysis
