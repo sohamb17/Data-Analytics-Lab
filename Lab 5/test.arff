@@ -1,0 +1,14 @@
+@relation exercise
+
+@attribute exista {TRUE, FALSE}
+@attribute existb {TRUE, FALSE}
+@attribute existc {TRUE, FALSE}
+@attribute existd {TRUE, FALSE}
+@attribute existe {TRUE, FALSE}
+@attribute existk {TRUE, FALSE}
+
+@data
+TRUE,TRUE,FALSE,TRUE,FALSE,TRUE
+TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
