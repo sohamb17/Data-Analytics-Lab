@@ -7,3 +7,5 @@
 ### Experiment 4: Linear Regression
 
 ### Experiment 5: Apriori Algorithm and Association Rules mining with WEKA
+
+### Experiment 6: Support Vector Machines
